@@ -206,7 +206,7 @@ rule-providers:
     path: "./ruleset/loyalsoldier/lancidr.yaml"
   applications:
     type: http
-    format: list
+    format: text
     interval: 86400
     behavior: classical
     url: "https://fastly.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt"
