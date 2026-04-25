@@ -3,6 +3,8 @@
 # REPO: https://github.com/ld8093/Clash-DNS
 # UPDATED: 2026-04-22 02:51:18
 
+proxies: [] 
+
 dns:
   enable: true 
   listen: "0.0.0.0:1053"
